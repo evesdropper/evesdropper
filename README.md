@@ -1,4 +1,5 @@
 Student at UC Berkeley. Occassionally projects for fun and gives up a few days later due to time constraints and assignments. Occassionally takes notes using Vim + LaTeX.
+
 [![rand's GitHub stats](https://github-readme-stats.vercel.app/api?username=randomrevised)](https://github.com/anuraghazra/github-readme-stats)
 
 
