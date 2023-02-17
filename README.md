@@ -1,6 +1,4 @@
-somewhere between unbearable mediocrity and whatever that other upper echelon is :bedge:
-
-with great power comes great responsibility; i want power but i suck at responsbility so i end up with nothing 
+dealing with the sobering reality that there's so much i want to learn yet so little time
 
 <!-- ![rand's GitHub stats](https://github-readme-stats.vercel.app/api?username=evesdropper&layout=compact) [![rand's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evesdropper&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!---
