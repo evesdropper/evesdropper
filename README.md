@@ -1,6 +1,6 @@
 fortunately, they can coexist
 
-if you ignore the bad parts this was a net positive experience
+not a winner, just a light with no lightbulb
 
 <!-- ![rand's GitHub stats](https://github-readme-stats.vercel.app/api?username=evesdropper&layout=compact) [![rand's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evesdropper&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!---
