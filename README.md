@@ -1,4 +1,4 @@
-fortunately, they can coexist
+they can coexist, but
 
 not the right trajectory
 
