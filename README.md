@@ -1,6 +1,6 @@
-they can coexist, but
+what happens to a child that isn't loved?
 
-is it that i don't count because i can't count or is it that i can't count because i don't count?
+they become a linux user
 
 <!-- ![rand's GitHub stats](https://github-readme-stats.vercel.app/api?username=evesdropper&layout=compact) [![rand's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evesdropper&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!---
