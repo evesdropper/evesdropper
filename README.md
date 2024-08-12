@@ -1,6 +1,6 @@
-~~what happens to a child that isn't loved?
+~~what happens to a child that isn't loved?~~
 
-they become a linux user~~
+~~they become a linux user~~
 
 sorry that was being written while gaslit
 
