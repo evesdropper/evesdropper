@@ -1,4 +1,4 @@
-not eveyone is born to be iconic
+soul crushing accountability
 
 <!-- ![rand's GitHub stats](https://github-readme-stats.vercel.app/api?username=evesdropper&layout=compact) [![rand's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evesdropper&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!---
