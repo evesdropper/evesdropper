@@ -1,7 +1,3 @@
 soul crushing accountability
 
-<!-- ![rand's GitHub stats](https://github-readme-stats.vercel.app/api?username=evesdropper&layout=compact) [![rand's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evesdropper&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<!---
-randomrevised/randomrevised is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+my time spent being a linux chud is inversely correlated with how employed i am and how much exercise i get
